@@ -65,4 +65,4 @@ Modify the program so that new babies are born in an empty random adjacent squar
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-[product-screenshot]: https://raw.githubusercontent.com/othneildrew/Best-README-Template/master/screenshot.png
+[product-screenshot]: https://raw.githubusercontent.com/vilkyskis/bunnies_programming_challenge/master/bunnies_scrnsht.PNG
